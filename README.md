@@ -14,6 +14,13 @@ A high-performance downloader for the Matterport3D dataset, featuring multi-thre
 - 💾 Space optimization through automatic cleanup of compressed files
 - 📝 Comprehensive logging of download progress and errors
 
+## 🏠 Preview Matterport3D Houses
+
+You can preview the Matterport3D house styles online at:
+[https://aspis.cmpt.sfu.ca/scene-toolkit/scans/matterport3d/houses](https://aspis.cmpt.sfu.ca/scene-toolkit/scans/matterport3d/houses)
+
+A complete list of available houses is provided in the `matterport3d_scan_ids.txt` file within this project.
+
 ## 🔧 Requirements
 
 - Python 3.6+
